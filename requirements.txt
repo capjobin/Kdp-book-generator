@@ -1,4 +1,3 @@
-fastapi
-uvicorn
-reportlab
-pillow
+jinja2
+aiofiles
+python-multipart
